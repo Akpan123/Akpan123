@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/akshatpndy" target="blank"><img src="https://img.shields.io/twitter/follow/akshatpndy?logo=twitter&style=for-the-badge" alt="akshatpndy" /></a> </p>
 
-- 🔭 I’m currently working on **Track back**
+- 🔭 I’m currently working on **BlockChain**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **Smart_Contracts**
 
-- 💬 Ask me about **C,C++,CSS,HTML**
+- 💬 Ask me about **C,C++,Js,OOps**
 
-- 📫 How to reach me **pandeygap26@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
