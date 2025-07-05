@@ -1,4 +1,4 @@
-# Welcome to Akshat Pandey's GitHub Universe 🚀
+# Akshat Pandey's Developer Portfolio ✨
 
 <div align="center">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%">
@@ -14,7 +14,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="60%" style="vertical-align:top">
         <ul>
           <li>🔭 Currently building the future with <strong>BlockChain</strong></li>
           <li>🌱 Mastering <strong>Smart Contracts</strong> and Web3 technologies</li>
@@ -23,8 +23,11 @@
           <li>📫 Reach me: <a href="https://twitter.com/akshatpndy">@akshatpndy</a></li>
         </ul>
       </td>
-      <td width="80%">
-        <img src="https://raw.githubusercontent.com/Akpan123/Akpan123/refs/heads/main/.github/workflows/Animation3.gif" alt="Terminal Demo" width="400">
+      <td width="40%" style="vertical-align:top">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Akpan123/Akpan123/refs/heads/main/.github/workflows/Animation3.gif" alt="Terminal Demo" width="100%">
+          <p><em>My terminal in action - where the magic happens!</em></p>
+        </div>
       </td>
     </tr>
   </table>
@@ -34,7 +37,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/akshatpndy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -44,7 +47,10 @@
   <a href="https://instagram.com/akshat_pandey_07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+  <a href="https://github.com/Akpan123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ---
 
@@ -81,13 +87,21 @@
 ### 📈 GitHub Stats Dashboard
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Akpan123&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akpan123&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akpan123&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Akpan123&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akpan123&theme=dark&hide_border=false" alt="GitHub Streak">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akpan123&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -97,14 +111,19 @@
 > "First, solve the problem. Then, write the code."  
 > *- John Johnson*
 
+> "The best error message is the one that never shows up."  
+> *- Thomas Fuchs*
+
 ---
 
 ### 🐍 Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake.svg" width="100%">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Akpan123/Akpan123/output/github-snake.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -112,3 +131,21 @@
   <img src="https://komarev.com/ghpvc/?username=akapan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   <p>Made with ❤️ and JavaScript</p>
 </div>
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    padding: 15px;
+    vertical-align: top;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+  }
+</style>
