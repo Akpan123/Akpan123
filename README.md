@@ -23,7 +23,7 @@
           <li>📫 Reach me: <a href="https://twitter.com/akshatpndy">@akshatpndy</a></li>
         </ul>
       </td>
-      <td width="40%">
+      <td width="80%">
         <img src="https://raw.githubusercontent.com/Akpan123/Akpan123/refs/heads/main/.github/workflows/Animation3.gif" alt="Terminal Demo" width="100%">
       </td>
     </tr>
